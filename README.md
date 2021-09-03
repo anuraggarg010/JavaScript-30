@@ -1,3 +1,4 @@
-<hr>
-<h1 style="color:blue;">Made With Love By Anurag Garg.
- <hr>
+
+<h1 >Made With Love By Anurag Garg.</h1>
+
+
